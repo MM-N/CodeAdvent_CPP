@@ -47,7 +47,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/mmn/Documents/Code/CodeAdvent/Day_1/CodeAdvent_DayOne/CodeAdvent_DayOne"
+      customWorkingDirectory = "/Users/mmn/Documents/Repos/CodeAdvent/Day_1/CodeAdvent_DayOne/CodeAdvent_DayOne"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
